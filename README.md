@@ -7,4 +7,4 @@
 
 
 ***
-_Credit: This assignment is based on a similar one by Margaret Tanzosh at http://intro.cs50nestm.net/._
+_Credit: This assignment is based on similar work by Margaret Tanzosh at http://intro.cs50nestm.net/._
